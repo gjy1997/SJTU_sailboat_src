@@ -1,0 +1,8 @@
+('position ', 0, 0)
+('heading_deg', 0.0)
+Traceback (most recent call last):
+  File "example_remotecontrol.py", line 124, in <module>
+    out_pubmsg = getOutput(out_np)
+  File "example_remotecontrol.py", line 41, in getOutput
+    out_pub.u = msg[2]
+AttributeError: 'spare_function_out' object has no attribute 'u'
