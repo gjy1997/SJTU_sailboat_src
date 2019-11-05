@@ -1,0 +1,116 @@
+[0m[ INFO] [1571408450.996703893]: rviz version 1.12.17[0m
+[0m[ INFO] [1571408450.996770833]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571408450.996778026]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571408451.591999258]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571408451.592073519]: OpenGl version: 3 (GLSL 1.3).[0m
+[0m[ INFO] [1571408743.176313524]: rviz version 1.12.17[0m
+[0m[ INFO] [1571408743.176613319]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571408743.176630503]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571408743.453596762]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571408743.453682472]: OpenGl version: 3 (GLSL 1.3).[0m
+[31m[ERROR] [1571410039.698397637]: poll failed with error 被中断的系统调用[0m
+[0m[ INFO] [1571408540.525106526]: rviz version 1.12.17[0m
+[0m[ INFO] [1571408540.525179594]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571408540.525205748]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571408540.786376438]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571408540.786508170]: OpenGl version: 3 (GLSL 1.3).[0m
+[0m[ INFO] [1571450183.173325253]: rviz version 1.12.17[0m
+[0m[ INFO] [1571450183.173357294]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571450183.173362745]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571450183.811741719]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571450183.811816867]: OpenGl version: 3 (GLSL 1.3).[0m
+[0m[ INFO] [1571460495.491348586]: rviz version 1.12.17[0m
+[0m[ INFO] [1571460495.491389867]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571460495.491397543]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571460496.123431862]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571460496.123509997]: OpenGl version: 3 (GLSL 1.3).[0m
+[0m[ INFO] [1571466262.666895753]: rviz version 1.12.17[0m
+[0m[ INFO] [1571466262.666929377]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571466262.666936736]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571466262.976510137]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571466262.976840880]: OpenGl version: 3 (GLSL 1.3).[0m
+[ERROR] [1571466326.034309]: dynreconf client failed. Connection to node=/example_7228_1571466049226 failed
+Exception in thread Thread-14:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rqt_reconfigure/treenode_qstditem.py", line 67, in run
+    self._param_name_raw))
+ROSException: timeout exceeded while waiting for service /example_7228_1571466049226/set_parametersTreenodeQstdItem. Couldn't connect to /example_7228_1571466049226
+
+[ERROR] [1571466330.235814]: dynreconf client failed
+Exception in thread Thread-15:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rqt_reconfigure/treenode_qstditem.py", line 67, in run
+    self._param_name_raw))
+ROSException: timeout exceeded while waiting for service /example_7228_1571466049226/set_parametersTreenodeQstdItem. Couldn't connect to /example_7228_1571466049226
+
+[ERROR] [1571466339.728768]: dynreconf client failed. Connection to node=/example_7228_1571466049226 failed
+Exception in thread Thread-24:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rqt_reconfigure/treenode_qstditem.py", line 67, in run
+    self._param_name_raw))
+ROSException: timeout exceeded while waiting for service /example_7228_1571466049226/set_parametersTreenodeQstdItem. Couldn't connect to /example_7228_1571466049226
+
+[ERROR] [1571466343.866465]: dynreconf client failed
+Exception in thread Thread-25:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rqt_reconfigure/treenode_qstditem.py", line 67, in run
+    self._param_name_raw))
+ROSException: timeout exceeded while waiting for service /example_7228_1571466049226/set_parametersTreenodeQstdItem. Couldn't connect to /example_7228_1571466049226
+
+[ERROR] [1571466353.614769]: dynreconf client failed. Connection to node=/example_7228_1571466049226 failed
+Exception in thread Thread-34:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rqt_reconfigure/treenode_qstditem.py", line 67, in run
+    self._param_name_raw))
+ROSException: timeout exceeded while waiting for service /example_7228_1571466049226/set_parametersTreenodeQstdItem. Couldn't connect to /example_7228_1571466049226
+
+[0m[ INFO] [1571466222.531576534]: rviz version 1.12.17[0m
+[0m[ INFO] [1571466222.531606402]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571466222.531612478]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571466222.829584778]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571466222.829664763]: OpenGl version: 3 (GLSL 1.3).[0m
+[INFO] [1571466326.032727]: PluginContainerWidget; dynreconf client failed. Connection to node=/example_7228_1571466049226 failed
+[INFO] [1571466339.726913]: PluginContainerWidget; dynreconf client failed. Connection to node=/example_7228_1571466049226 failed
+[INFO] [1571466353.611491]: PluginContainerWidget; dynreconf client failed. Connection to node=/example_7228_1571466049226 failed
+[0m[ INFO] [1571655410.179302092]: rviz version 1.12.17[0m
+[0m[ INFO] [1571655410.179353133]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571655410.179360404]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571655410.840865341]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571655410.840942052]: OpenGl version: 3 (GLSL 1.3).[0m
+[0m[ INFO] [1571655959.113734295]: rviz version 1.12.17[0m
+[0m[ INFO] [1571655959.113943638]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571655959.113954475]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571655959.373646879]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571655959.373730503]: OpenGl version: 3 (GLSL 1.3).[0m
+[0m[ INFO] [1571737173.469741254]: rviz version 1.12.17[0m
+[0m[ INFO] [1571737173.469776184]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571737173.469781588]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571737174.054940508]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571737174.055047002]: OpenGl version: 3 (GLSL 1.3).[0m
+[31m[ERROR] [1571745408.059317506]: poll failed with error 被中断的系统调用[0m
+[0m[ INFO] [1571744394.740668958]: rviz version 1.12.17[0m
+[0m[ INFO] [1571744394.740703344]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571744394.740708585]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571744395.354452574]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571744395.354508235]: OpenGl version: 3 (GLSL 1.3).[0m
+[0m[ INFO] [1571981070.025142250]: rviz version 1.12.17[0m
+[0m[ INFO] [1571981070.025209704]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1571981070.025222318]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1571981070.291595851]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1571981070.291827045]: OpenGl version: 3 (GLSL 1.3).[0m
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 23589, resource id: 73400391, major code: 40 (TranslateCoords), minor code: 0
+[0m[ INFO] [1572571931.757831242]: rviz version 1.12.17[0m
+[0m[ INFO] [1572571931.757865339]: compiled against Qt version 5.5.1[0m
+[0m[ INFO] [1572571931.757870759]: compiled against OGRE version 1.9.0 (Ghadamon)[0m
+[0m[ INFO] [1572571932.402876573]: Stereo is NOT SUPPORTED[0m
+[0m[ INFO] [1572571932.402962732]: OpenGl version: 3 (GLSL 1.3).[0m
